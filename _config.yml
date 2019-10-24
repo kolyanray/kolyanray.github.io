@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Kolyan Ray"
   avatar           : "profile.png"
-  bio              : "Lecturer in Statistics\
-  King's College London"
+  bio              : "Lecturer in Statistics at King's College London"
   location         : "London, United Kingdom"
   employer         :
   pubmed           : 
@@ -97,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/kolyanray"
+  github           : "kolyanray"
   google_plus      :
   keybase          :
   instagram        :
